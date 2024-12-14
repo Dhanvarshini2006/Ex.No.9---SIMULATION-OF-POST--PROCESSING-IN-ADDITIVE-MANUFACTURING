@@ -1,6 +1,6 @@
 # Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+### DATE: 14/12/2024
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -34,21 +34,31 @@
 ## OUTPUT :
 
 ## Support Removal Process
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
+![Screenshot (69)](https://github.com/user-attachments/assets/486307f5-9e21-4240-9869-6194cd24519b)
+
+![Screenshot (73)](https://github.com/user-attachments/assets/bed9e496-b042-47d6-9e88-31dc5329074b)
+
+
+
 
 ## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
+![Screenshot (70)](https://github.com/user-attachments/assets/d625a565-c386-47cf-bcb0-a8cbdac72537)
+
+![Screenshot (74)](https://github.com/user-attachments/assets/0da464d6-1459-4a11-9c8b-933d6fc9ba7f)
+
+
 
 ## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
+![Screenshot (71)](https://github.com/user-attachments/assets/a93358f4-916d-4f6c-84ee-f5ca811ce43c)
 
-## Output:
+![Screenshot (75)](https://github.com/user-attachments/assets/92579c1e-f1c4-4852-9836-b857d62f6da8)
 
-### Name:
-### Register Number:
+
+
+
+
+### Name: DHAN VARSHINI J P
+### Register Number:24900197
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
